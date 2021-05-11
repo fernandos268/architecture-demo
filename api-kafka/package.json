@@ -16,7 +16,7 @@
     "find-and": "^1.2.0",
     "ioredis": "^4.16.0",
     "kafka-node": "^5.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lowdb": "^1.0.0",
     "morgan": "^1.9.1",
     "orientjs": "^3.0.9",
